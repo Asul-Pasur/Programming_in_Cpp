@@ -13,9 +13,6 @@ void Print(int size);
 
 int main()
 {
-	int  number = -123;
-	int* pa = &number;
-
 	cout << left;
 	cout.width(11);
 	cout << "long int";
