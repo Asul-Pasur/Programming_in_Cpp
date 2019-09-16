@@ -11,7 +11,7 @@ using namespace std;
 
 int main()
 {
-	int  number = -67;
+	int  number = -1234567;
 	int* pa = &number;
 
 	for (int i = sizeof(int) * 8 - 1; i >= 0; i--)
